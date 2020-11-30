@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/RahulDairy/PrivacyPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Rahul Dairy has created this statement in order to demonstrate our commitment to your privacy, while you visit our application. This statement discloses the information practices for the shrishti fast foods web site, including what type of information is gathered and tracked, how the information is used and with whom the information is shared. To make this notice easy to find, we make it available on our homepage and at every point where personal identification information may be requested.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Collection & Use of Personal & Non-Personal Information :
+This notice applies to all information collected or submitted on the Rahul Dairy. On some pages, you can order products, and register to receive materials. The types of personal information collected at these pages are:
+Name
+Address
+Email address
+Phone number
+[Etc.]
+Rahul Dairy may obtain information about your location through pinpointed GPS data or when you submit a partial/complete address as a part of registering/signing up on our website. Rahul Dairy may also access, store and use your location information/address to make you aware of location-specific products and services (such as exclusive offers for a particular city/area) through emails/newsletters/SMS. Personal information of customers obtained by Rahul Dairy will under no circumstances be shared with third parties for their marketing purposes. It will only be used to improve our own products/marketing activities and will remain strictly confidential. We may also collect non-personal information such as occupation, language, zip code, area code, etc of customers so that we can better understand customer behaviour and improve our products, services, and advertising. If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Disclosure of your Information :
+We are committed to protecting your privacy and security. All personal data that we collect from you will be processed in accordance with our Privacy Policy. You should review our Privacy Policy, which is incorporated into these website terms by this reference and is available here.
+The information that you provide to us will be transferred to and stored on our server.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Refund & Cancellations
 
-1. Numbered
-2. List
+Order once placed can't be withdrawn and no refund will be provided.
+If for any reasons the delivery of orders can't be made, then the Company will provide refund to the customer.
+Any refund, claim, demand, etc. will be entertained by the company (shristi fast food) through its own resources and payment channel shall not be liable.
+No obligation lies upon the payment channel for non-delivery or wrong - delivery of the order or any complaint about quality etc. All such issues shall lie with the Company Only.
+Customers are requested to provide acknowledgement against delivery in the shrishti fast foods website.
+In any case the liability of the Company is fixed for a maximum of Rs.100/- or the value of order(refund via same source), as the case may be.
+In case of any compliant, query, grievance the customer can contact to the Customer Relation Officer at the phone number or email Id or address as mentioned over the food container.
+Refund will be processed through the original mode of payment which was used while placing the order. Refund may take upto 15-20 working days, depending on the bank.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RahulDairy/PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks & Regards
+Team Ezip
